@@ -1,4 +1,4 @@
-const JobInfo = [
+const InfoJs = [
     {
       Title: "Full Stack Web Developer",
       Name: "TOMMY",
